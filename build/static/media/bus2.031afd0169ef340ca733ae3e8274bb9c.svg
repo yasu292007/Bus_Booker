@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500">
+<rect width="100%" height="100%" fill="#fff7e6"/>
+<g font-family="sans-serif" fill="#7a2b00">
+  <rect x="60" y="120" width="760" height="200" rx="20" fill="#ff9f1c"/>
+  <circle cx="180" cy="320" r="36" fill="#fff"/>
+  <circle cx="660" cy="320" r="36" fill="#fff"/>
+  <text x="120" y="200" font-size="46" fill="#4b1f00" font-weight="800">Night Rider</text>
+  <text x="120" y="250" font-size="20" fill="#ffe6c6">Semi Sleeper · Curtains</text>
+</g>
+</svg>
